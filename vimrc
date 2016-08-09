@@ -20,7 +20,7 @@ runtime macros/matchit.vim  "html标签开始结束切换
 "au BufRead * silent loadview    " 恢复文件的折叠状态
 "nnoremap <space> za             " 用空格来切换折叠状态
 
-
+"https://github.com/VundleVim/Vundle.vim.git
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
 "所有的插件管理必须被添加在以上这行之后
