@@ -1,3 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/home/lbw/fe/personal-h5/src/js'
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/lbw/froad_project/fe/personal-h5/src'
+let g:netrw_dirhist_2='/Users/lbw/froad_project/fe/personal-h5/src/js'
+let g:netrw_dirhist_3='/Users/lbw/froad_project/boss-xmall/src/app/page/actOrder'
+let g:netrw_dirhist_4='/Users/lbw/meituan'
+let g:netrw_dirhist_5='/Users/lbw'
+let g:netrw_dirhist_6='/Users'
+let g:netrw_dirhist_7='/'
+let g:netrw_dirhist_8='/Users/lbw/froad_project/fe/personal-h5/src/mockup'
+let g:netrw_dirhist_9='/Users/lbw'
